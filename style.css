@@ -31,16 +31,15 @@
 }
 
 .index{
-    fontsize: 5;
-    color: #000000;
+    color: #4169e1;
     text-decoration: none;
     font-weight: bold;
     position: absolute;
     top: 750px;
-    right: 75px;
+    right: 125px;
 }
 .index:visited {
-  color: #000000;
+  color: #4169e1;
 }
 
 
