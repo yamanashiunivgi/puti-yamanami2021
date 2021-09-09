@@ -1,0 +1,49 @@
+.p1{
+    width: 571px;
+    height: 800px;
+    position: absolute;
+    top: 0px;
+    left: 260px;
+}
+
+.p2{
+    width: 571px;
+    height: 800px;
+    position: absolute;
+    top: 0px;
+    right: 260px;
+}
+
+.back{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 385px;
+    left: 150px;
+}
+
+.next{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 385px;
+    right: 150px;
+}
+
+.index{
+    color: #4169e1;
+    text-decoration: none;
+    font-weight: bold;
+    position: absolute;
+    top: 750px;
+    right: 125px;
+}
+.index:visited {
+  color: #4169e1;
+}
+
+
+html {
+    background-color: #ffdab9;
+}
+ 
